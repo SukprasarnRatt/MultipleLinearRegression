@@ -9,7 +9,7 @@ This is a practice project of using  Multiple Regression model with multiple fea
 - pandas
 - sklearn
 
-## Steps
+## Steps in the Practice
 
 1. **Taking Care Missing Data**:  Replace missing data for all features by mean and most_frequent strategy.
 1. **Split Dataset**: Split the dataset into two sets - a training set (80%) and a test set (20%).
